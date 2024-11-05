@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drag and Drop Example</string>
+    <string name="source_image">Image to drag</string>
+    <string name="drop_here">Drop here</string>
+</resources>

@@ -1,0 +1,31 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- Imagen de origen para arrastrar -->
+    <ImageView
+        android:id="@+id/image_view_source"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ulpgc"
+        android:contentDescription="@string/source_image"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Zona de destino para soltar -->
+    <LinearLayout
+        android:id="@+id/drop_target"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@android:color/darker_gray"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/drop_here" />
+    </LinearLayout>
+</LinearLayout>
