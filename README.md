@@ -3,20 +3,20 @@
 Este repositorio contiene una colección de **Codelabs** diseñados para la asignatura **Programación de Aplicaciones Móviles Nativas**. Cada Codelab incluye ejercicios prácticos y ejemplos para desarrollar aplicaciones móviles nativas.
 
 
-## 📋 Contenido del Repositorio
+## 📋 Contenido del repositorio
 
-1. **Codelabs y Ejercicios en Kotlin**
-2. **Desarrollo de Apps Móviles**
+1. **Codelabs y ejercicios en Kotlin**
+2. **Desarrollo de apps móviles**
 
 
-## 🛠️ Tecnologías y Herramientas Utilizadas
+## 🛠️ Tecnologías y herramientas utilizadas
 
 - **Lenguaje principal**: Kotlin.
 - **Frameworks**: Jetpack Compose (para interfaces de usuario).
 - **Entornos**: Android Studio.
 
 
-## 🚀 Cómo Ejecutar los Ejercicios 
+## 🚀 Cómo ejecutar los ejercicios 
 
 1. Clona el repositorio en tu máquina:
    ```bash
